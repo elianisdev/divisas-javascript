@@ -1,0 +1,19 @@
+
+body {
+    background-color: red;
+}
+
+.containerDivisa {
+    border: 1px solid transparent;
+    border-radius: 50px;
+    background-color: #ccc;
+}
+
+.imageDivisa {
+    height: 80px;
+    margin: 0 auto;
+}
+
+.borderInputs {
+    border-radius: 8px;
+}
